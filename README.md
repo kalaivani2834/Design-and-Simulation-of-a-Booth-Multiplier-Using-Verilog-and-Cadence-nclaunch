@@ -151,11 +151,11 @@ Truth Table for Booth Multiplier (Example)
 
 
 Nclaunch Work Library Window
-![image](https://github.com/user-attachments/assets/72b92a17-0661-463e-933b-2e214352bb2b)
+![image](https://github.com/user-attachments/assets/302494c8-8fda-4af7-a192-0078e0ab6c85)
 
 
 Simulation Results
-![image](https://github.com/user-attachments/assets/555c2e22-e612-4164-8ac5-4bd1c4619012)
+![image](https://github.com/user-attachments/assets/0cc1c563-ceba-4063-99ca-537eb2bd9bc6)
 
 
 Results
